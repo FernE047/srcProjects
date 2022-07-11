@@ -1,0 +1,238 @@
+Python 3.7.7 (tags/v3.7.7:d7c567b08f, Mar 10 2020, 10:41:24) [MSC v.1900 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+========== RESTART: C:\Users\Programador\Desktop\farmWeek\farmWeek.py ==========
+[
+{'name': '4d9r', 'id': 'x35yq46j', 'runs': {'initial': {'verified': 634, 'rejected': 14, 'new': 243, 'total': 877}, 'today': {'verified': 634, 'rejected': 14, 'new': 246, 'total': 880}, 'total': 3, 'yesterday': {'verified': 634, 'rejected': 14, 'new': 246, 'total': 880}}}
+{'name': 'zir0nic', 'id': '98rv0dqj', 'runs': {'initial': {'verified': 998, 'rejected': 36, 'new': 1, 'total': 999}, 'today': {'verified': 999, 'rejected': 36, 'new': 5, 'total': 1004}, 'total': 5, 'yesterday': {'verified': 998, 'rejected': 36, 'new': 3, 'total': 1001}}}
+{'name': 'stathx', 'id': 'jn36q61x', 'runs': {'initial': {'verified': 1439, 'rejected': 21, 'new': 0, 'total': 1439}, 'today': {'verified': 1903, 'rejected': 21, 'new': 8, 'total': 1911}, 'total': 472, 'yesterday': {'verified': 1734, 'rejected': 21, 'new': 30, 'total': 1764}}}
+{'name': 'Astrolite', 'id': 'j0n55mr8', 'runs': {'initial': {'verified': 1205, 'rejected': 162, 'new': 86, 'total': 1291}, 'today': {'verified': 1209, 'rejected': 168, 'new': 451, 'total': 1660}, 'total': 369, 'yesterday': {'verified': 1209, 'rejected': 167, 'new': 178, 'total': 1387}}}
+{'name': 'Otterstone_Gamer', 'id': 'qjn1wzw8', 'runs': {'initial': {'verified': 8240, 'rejected': 454, 'new': 615, 'total': 8855}, 'today': {'verified': 8256, 'rejected': 454, 'new': 1136, 'total': 9392}, 'total': 537, 'yesterday': {'verified': 8242, 'rejected': 454, 'new': 883, 'total': 9125}}}
+{'name': 'felipereis11011', 'id': 'x7q9g1v8', 'runs': {'initial': {'verified': 1216, 'rejected': 1, 'new': 0, 'total': 1216}, 'today': {'verified': 1216, 'rejected': 1, 'new': 0, 'total': 1216}, 'total': 0, 'yesterday': {'verified': 1216, 'rejected': 1, 'new': 0, 'total': 1216}}}
+{'name': 'felipenascimento83', 'id': '68wne448', 'runs': {'initial': {'verified': 2019, 'rejected': 0, 'new': 3, 'total': 2022}, 'today': {'verified': 2060, 'rejected': 0, 'new': 7, 'total': 2067}, 'total': 45, 'yesterday': {'verified': 2043, 'rejected': 0, 'new': 3, 'total': 2046}}}
+{'name': 'JDMI', 'id': 'j92266v8', 'runs': {'initial': {'verified': 997, 'rejected': 18, 'new': 0, 'total': 997}, 'today': {'verified': 1052, 'rejected': 18, 'new': 0, 'total': 1052}, 'total': 55, 'yesterday': {'verified': 1017, 'rejected': 18, 'new': 0, 'total': 1017}}}
+{'name': 'ComicBlue', 'id': '68wvldlx', 'runs': {'initial': {'verified': 2356, 'rejected': 59, 'new': 3, 'total': 2359}, 'today': {'verified': 2503, 'rejected': 59, 'new': 25, 'total': 2528}, 'total': 169, 'yesterday': {'verified': 2403, 'rejected': 59, 'new': 33, 'total': 2436}}}
+{'name': 'reni', 'id': '8l0rl9v8', 'runs': {'initial': {'verified': 1540, 'rejected': 2, 'new': 0, 'total': 1540}, 'today': {'verified': 1555, 'rejected': 2, 'new': 0, 'total': 1555}, 'total': 15, 'yesterday': {'verified': 1546, 'rejected': 2, 'new': 0, 'total': 1546}}}
+{'name': 'Kkntucara', 'id': 'xz9nv648', 'runs': {'initial': {'verified': 1379, 'rejected': 52, 'new': 12, 'total': 1391}, 'today': {'verified': 1379, 'rejected': 52, 'new': 14, 'total': 1393}, 'total': 2, 'yesterday': {'verified': 1379, 'rejected': 52, 'new': 14, 'total': 1393}}}
+{'name': 'VyPr', 'id': '8e913qdj', 'runs': {'initial': {'verified': 1634, 'rejected': 2, 'new': 22, 'total': 1656}, 'today': {'verified': 1696, 'rejected': 0, 'new': 30, 'total': 1726}, 'total': 70, 'yesterday': {'verified': 1679, 'rejected': 0, 'new': 47, 'total': 1726}}}
+{'name': 'killerkun...', 'id': '8qr5kvwj', 'runs': {'initial': {'verified': 1978, 'rejected': 0, 'new': 6, 'total': 1984}, 'today': {'verified': 2087, 'rejected': 1, 'new': 195, 'total': 2282}, 'total': 298, 'yesterday': {'verified': 2054, 'rejected': 0, 'new': 37, 'total': 2091}}}
+{'name': 'Toxcien', 'id': 'jn36qqqx', 'runs': {'initial': {'verified': 430, 'rejected': 4, 'new': 1, 'total': 431}, 'today': {'verified': 481, 'rejected': 4, 'new': 69, 'total': 550}, 'total': 119, 'yesterday': {'verified': 460, 'rejected': 4, 'new': 1, 'total': 461}}}
+{'name': 'JeelSpeed', 'id': 'jpre35y8', 'runs': {'initial': {'verified': 893, 'rejected': 24, 'new': 23, 'total': 916}, 'today': {'verified': 958, 'rejected': 44, 'new': 70, 'total': 1028}, 'total': 112, 'yesterday': {'verified': 925, 'rejected': 44, 'new': 103, 'total': 1028}}}
+{'name': 'AslanTZ', 'id': '816q54lx', 'runs': {'initial': {'verified': 1447, 'rejected': 24, 'new': 0, 'total': 1447}, 'today': {'verified': 1458, 'rejected': 24, 'new': 0, 'total': 1458}, 'total': 11, 'yesterday': {'verified': 1453, 'rejected': 24, 'new': 0, 'total': 1453}}}
+{'name': 'Elims', 'id': 'qjoqz4e8', 'runs': {'initial': {'verified': 1282, 'rejected': 86, 'new': 1, 'total': 1283}, 'today': {'verified': 1283, 'rejected': 86, 'new': 66, 'total': 1349}, 'total': 66, 'yesterday': {'verified': 1283, 'rejected': 86, 'new': 31, 'total': 1314}}}
+{'name': 'Merl_', 'id': 'jn39e4dx', 'runs': {'initial': {'verified': 248, 'rejected': 1, 'new': 0, 'total': 248}, 'today': {'verified': 248, 'rejected': 1, 'new': 2, 'total': 250}, 'total': 2, 'yesterday': {'verified': 248, 'rejected': 1, 'new': 2, 'total': 250}}}
+{'name': 'Walgrey', 'id': '8ge6w47j', 'runs': {'initial': {'verified': 661, 'rejected': 2, 'new': 0, 'total': 661}, 'today': {'verified': 663, 'rejected': 2, 'new': 0, 'total': 663}, 'total': 2, 'yesterday': {'verified': 663, 'rejected': 2, 'new': 0, 'total': 663}}}
+{'name': 'hahhah42', 'id': 'jmoqknn8', 'runs': {'initial': {'verified': 285, 'rejected': 1, 'new': 0, 'total': 285}, 'today': {'verified': 315, 'rejected': 1, 'new': 0, 'total': 315}, 'total': 30, 'yesterday': {'verified': 285, 'rejected': 1, 'new': 0, 'total': 285}}}
+{'name': 'Zambrini', 'id': '1xyylnyx', 'runs': {'initial': {'verified': 1670, 'rejected': 8, 'new': 20, 'total': 1690}, 'today': {'verified': 1822, 'rejected': 8, 'new': 17, 'total': 1839}, 'total': 149, 'yesterday': {'verified': 1718, 'rejected': 8, 'new': 23, 'total': 1741}}}
+{'name': 'Kkspeed', 'id': 'xz7m6knj', 'runs': {'initial': {'verified': 157, 'rejected': 17, 'new': 32, 'total': 189}, 'today': {'verified': 171, 'rejected': 32, 'new': 108, 'total': 279}, 'total': 90, 'yesterday': {'verified': 166, 'rejected': 32, 'new': 113, 'total': 279}}}
+{'name': 'Ivory', 'id': 'v8lqkv7x', 'runs': {'initial': {'verified': 38, 'rejected': 31, 'new': 1, 'total': 39}, 'today': {'verified': 38, 'rejected': 31, 'new': 1, 'total': 39}, 'total': 0, 'yesterday': {'verified': 38, 'rejected': 31, 'new': 1, 'total': 39}}}
+{'name': 'Bob-chicken', 'id': 'x7q6qy08', 'runs': {'initial': {'verified': 380, 'rejected': 28, 'new': 1, 'total': 381}, 'today': {'verified': 380, 'rejected': 28, 'new': 1, 'total': 381}, 'total': 0, 'yesterday': {'verified': 380, 'rejected': 28, 'new': 1, 'total': 381}}}
+{'name': 'wrap', 'id': 'xz79gdej', 'runs': {'initial': {'verified': 81, 'rejected': 10, 'new': 0, 'total': 81}, 'today': {'verified': 115, 'rejected': 10, 'new': 58, 'total': 173}, 'total': 92, 'yesterday': {'verified': 115, 'rejected': 10, 'new': 58, 'total': 173}}}
+{'name': 'Act7', 'id': 'j51p0268', 'runs': {'initial': {'verified': 856, 'rejected': 100, 'new': 8, 'total': 864}, 'today': {'verified': 869, 'rejected': 101, 'new': 23, 'total': 892}, 'total': 28, 'yesterday': {'verified': 864, 'rejected': 100, 'new': 18, 'total': 882}}}
+{'name': 'Fioresa', 'id': '1xy3wpwj', 'runs': {'initial': {'verified': 5269, 'rejected': 16, 'new': 58, 'total': 5327}, 'today': {'verified': 5344, 'rejected': 16, 'new': 57, 'total': 5401}, 'total': 74, 'yesterday': {'verified': 5312, 'rejected': 16, 'new': 60, 'total': 5372}}}
+{'name': 'TRlittleToaster', 'id': '8qzo95o8', 'runs': {'initial': {'verified': 1971, 'rejected': 1, 'new': 10, 'total': 1981}, 'today': {'verified': 1998, 'rejected': 1, 'new': 34, 'total': 2032}, 'total': 51, 'yesterday': {'verified': 1976, 'rejected': 1, 'new': 28, 'total': 2004}}}
+{'name': 'daff', 'id': '8grm677x', 'runs': {'initial': {'verified': 3508, 'rejected': 45, 'new': 57, 'total': 3565}, 'today': {'verified': 3603, 'rejected': 45, 'new': 1, 'total': 3604}, 'total': 39, 'yesterday': {'verified': 3580, 'rejected': 45, 'new': 0, 'total': 3580}}}
+{'name': 'Slothboy78YT', 'id': '8grk0zyx', 'runs': {'initial': {'verified': 152, 'rejected': 35, 'new': 62, 'total': 214}, 'today': {'verified': 174, 'rejected': 36, 'new': 42, 'total': 216}, 'total': 2, 'yesterday': {'verified': 164, 'rejected': 36, 'new': 52, 'total': 216}}}
+{'name': 'jackzfiml', 'id': '8ge265yj', 'runs': {'initial': {'verified': 463, 'rejected': 3, 'new': 0, 'total': 463}, 'today': {'verified': 464, 'rejected': 3, 'new': 0, 'total': 464}, 'total': 1, 'yesterday': {'verified': 464, 'rejected': 3, 'new': 0, 'total': 464}}}
+{'name': 'shinboy', 'id': '8wl7yovj', 'runs': {'initial': {'verified': 1736, 'rejected': 0, 'new': 0, 'total': 1736}, 'today': {'verified': 1747, 'rejected': 0, 'new': 0, 'total': 1747}, 'total': 11, 'yesterday': {'verified': 1736, 'rejected': 0, 'new': 0, 'total': 1736}}}
+]
+today total
+880
+1004
+1911
+1660
+9392
+1216
+2067
+1052
+2528
+1555
+1393
+1726
+2282
+550
+1028
+1458
+1349
+250
+663
+315
+1839
+279
+39
+381
+173
+892
+5401
+2032
+3604
+216
+464
+1747
+today now
+0
+3
+147
+273
+267
+0
+21
+35
+92
+9
+0
+0
+191
+89
+0
+5
+35
+0
+0
+30
+98
+0
+0
+0
+0
+10
+29
+28
+24
+0
+0
+11
+
+runs
+`1.Otterstone_Gamer        537`
+`2.stathx                  472`
+`3.Astrolite               369`
+`4.killerkun...            298`
+`5.ComicBlue               169`
+`6.Zambrini                149`
+`7.Toxcien                 119`
+`8.JeelSpeed               112`
+`9.wrap                    92`
+`10.Kkspeed                90`
+`11.Fioresa                74`
+`12.VyPr                   70`
+`13.Elims                  66`
+`14.JDMI                   55`
+`15.TRlittleToaster        51`
+`16.felipenascimento83     45`
+`17.daff                   39`
+`18.hahhah42               30`
+`19.Act7                   28`
+`20.reni                   15`
+`21.AslanTZ                11`
+`21.shinboy                11`
+`23.zir0nic                5`
+`24.4d9r                   3`
+`25.Kkntucara              2`
+`25.Merl_                  2`
+`25.Walgrey                2`
+`25.Slothboy78YT           2`
+`29.jackzfiml              1`
+`30.felipereis11011        0`
+`30.Ivory                  0`
+`30.Bob-chicken            0`
+#1
+#2
+#3
+#4
+#5
+#6
+#7
+#8
+#9
+#10
+#11
+#12
+#13
+#14
+#15
+#16
+#17
+#18
+#19
+#20
+#21
+#21
+#23
+#24
+#25
+#25
+#25
+#25
+#29
+#30
+#30
+#30
+
+Otterstone_Gamer
+stathx
+Astrolite
+killerkun...
+ComicBlue
+Zambrini
+Toxcien
+JeelSpeed
+wrap
+Kkspeed
+Fioresa
+VyPr
+Elims
+JDMI
+TRlittleToaster
+felipenascimento83
+daff
+hahhah42
+Act7
+reni
+AslanTZ
+shinboy
+zir0nic
+4d9r
+Kkntucara
+Merl_
+Walgrey
+Slothboy78YT
+jackzfiml
+felipereis11011
+Ivory
+Bob-chicken
+
+537
+472
+369
+298
+169
+149
+119
+112
+92
+90
+74
+70
+66
+55
+51
+45
+39
+30
+28
+15
+11
+11
+5
+3
+2
+2
+2
+2
+1
+0
+0
+0
+
+>>> 

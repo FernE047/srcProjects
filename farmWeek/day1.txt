@@ -1,0 +1,354 @@
+Python 3.7.7 (tags/v3.7.7:d7c567b08f, Mar 10 2020, 10:41:24) [MSC v.1900 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+========== RESTART: C:\Users\Programador\Desktop\farmWeek\farmWeek.py ==========
+[
+"4d9r" : {'name': '4d9r', 'id': 'x35yq46j', 'runs': {'initial': {'verified': 634, 'rejected': 14, 'new': 243}, 'today': {'verified': 634, 'rejected': 14, 'new': 246}, 'total': 3}, 'wrs': {'initial': 449, 'today': 449, 'total': 0}, 'games': {'initial': 30, 'today': 39, 'total': 9}},
+"zir0nic" : {'name': 'zir0nic', 'id': '98rv0dqj', 'runs': {'initial': {'verified': 998, 'rejected': 36, 'new': 1}, 'today': {'verified': 998, 'rejected': 36, 'new': 3}, 'total': 2}, 'wrs': {'initial': 334, 'today': 334, 'total': 0}, 'games': {'initial': 208, 'today': 236, 'total': 28}},
+"stathx" : {'name': 'stathx', 'id': 'jn36q61x', 'runs': {'initial': {'verified': 1439, 'rejected': 21, 'new': 0}, 'today': {'verified': 1734, 'rejected': 21, 'new': 30}, 'total': 325}, 'wrs': {'initial': 914, 'today': 1203, 'total': 289}, 'games': {'initial': 44, 'today': 53, 'total': 9}},
+"Astrolite" : {'name': 'Astrolite', 'id': 'j0n55mr8', 'runs': {'initial': {'verified': 1205, 'rejected': 162, 'new': 86}, 'today': {'verified': 1209, 'rejected': 167, 'new': 178}, 'total': 96}, 'wrs': {'initial': 703, 'today': 703, 'total': 0}, 'games': {'initial': 60, 'today': 97, 'total': 37}},
+"Otterstone_Gamer" : {'name': 'Otterstone_Gamer', 'id': 'qjn1wzw8', 'runs': {'initial': {'verified': 8240, 'rejected': 454, 'new': 615}, 'today': {'verified': 8242, 'rejected': 454, 'new': 883}, 'total': 270}, 'wrs': {'initial': 4058, 'today': 4058, 'total': 0}, 'games': {'initial': 439, 'today': 491, 'total': 52}},
+"felipereis11011" : {'name': 'felipereis11011', 'id': 'x7q9g1v8', 'runs': {'initial': {'verified': 1216, 'rejected': 1, 'new': 0}, 'today': {'verified': 1216, 'rejected': 1, 'new': 0}, 'total': 0}, 'wrs': {'initial': 689, 'today': 686, 'total': -3}, 'games': {'initial': 38, 'today': 39, 'total': 1}},
+"felipenascimento83" : {'name': 'felipenascimento83', 'id': '68wne448', 'runs': {'initial': {'verified': 2019, 'rejected': 0, 'new': 3}, 'today': {'verified': 2043, 'rejected': 0, 'new': 3}, 'total': 24}, 'wrs': {'initial': 1519, 'today': 1542, 'total': 23}, 'games': {'initial': 453, 'today': 458, 'total': 5}},
+"JDMI" : {'name': 'JDMI', 'id': 'j92266v8', 'runs': {'initial': {'verified': 997, 'rejected': 18, 'new': 0}, 'today': {'verified': 1017, 'rejected': 18, 'new': 0}, 'total': 20}, 'wrs': {'initial': 664, 'today': 684, 'total': 20}, 'games': {'initial': 44, 'today': 46, 'total': 2}},
+"ComicBlue" : {'name': 'ComicBlue', 'id': '68wvldlx', 'runs': {'initial': {'verified': 2356, 'rejected': 59, 'new': 3}, 'today': {'verified': 2403, 'rejected': 59, 'new': 33}, 'total': 77}, 'wrs': {'initial': 1299, 'today': 1327, 'total': 28}, 'games': {'initial': 219, 'today': 229, 'total': 10}},
+"reni" : {'name': 'reni', 'id': '8l0rl9v8', 'runs': {'initial': {'verified': 1540, 'rejected': 2, 'new': 0}, 'today': {'verified': 1546, 'rejected': 2, 'new': 0}, 'total': 6}, 'wrs': {'initial': 362, 'today': 367, 'total': 5}, 'games': {'initial': 170, 'today': 175, 'total': 5}},
+"Kkntucara" : {'name': 'Kkntucara', 'id': 'xz9nv648', 'runs': {'initial': {'verified': 1379, 'rejected': 52, 'new': 12}, 'today': {'verified': 1379, 'rejected': 52, 'new': 14}, 'total': 2}, 'wrs': {'initial': 683, 'today': 683, 'total': 0}, 'games': {'initial': 60, 'today': 80, 'total': 20}},
+"VyPr" : {'name': 'VyPr', 'id': '8e913qdj', 'runs': {'initial': {'verified': 1634, 'rejected': 2, 'new': 22}, 'today': {'verified': 1679, 'rejected': 0, 'new': 47}, 'total': 70}, 'wrs': {'initial': 769, 'today': 783, 'total': 14}, 'games': {'initial': 99, 'today': 109, 'total': 10}},
+"killerkun..." : {'name': 'killerkun...', 'id': '8qr5kvwj', 'runs': {'initial': {'verified': 1978, 'rejected': 0, 'new': 6}, 'today': {'verified': 2054, 'rejected': 0, 'new': 37}, 'total': 107}, 'wrs': {'initial': 1413, 'today': 1488, 'total': 75}, 'games': {'initial': 71, 'today': 87, 'total': 16}},
+"Toxcien" : {'name': 'Toxcien', 'id': 'jn36qqqx', 'runs': {'initial': {'verified': 430, 'rejected': 4, 'new': 1}, 'today': {'verified': 460, 'rejected': 4, 'new': 1}, 'total': 30}, 'wrs': {'initial': 367, 'today': 397, 'total': 30}, 'games': {'initial': 16, 'today': 19, 'total': 3}},
+"JeelSpeed" : {'name': 'JeelSpeed', 'id': 'jpre35y8', 'runs': {'initial': {'verified': 893, 'rejected': 24, 'new': 23}, 'today': {'verified': 925, 'rejected': 44, 'new': 103}, 'total': 112}, 'wrs': {'initial': 199, 'today': 200, 'total': 1}, 'games': {'initial': 17, 'today': 35, 'total': 18}},
+"AslanTZ" : {'name': 'AslanTZ', 'id': '816q54lx', 'runs': {'initial': {'verified': 1447, 'rejected': 24, 'new': 0}, 'today': {'verified': 1453, 'rejected': 24, 'new': 0}, 'total': 6}, 'wrs': {'initial': 527, 'today': 533, 'total': 6}, 'games': {'initial': 178, 'today': 192, 'total': 14}},
+"Elims" : {'name': 'Elims', 'id': 'qjoqz4e8', 'runs': {'initial': {'verified': 1282, 'rejected': 86, 'new': 1}, 'today': {'verified': 1283, 'rejected': 86, 'new': 31}, 'total': 31}, 'wrs': {'initial': 213, 'today': 214, 'total': 1}, 'games': {'initial': 141, 'today': 188, 'total': 47}},
+"Merl_" : {'name': 'Merl_', 'id': 'jn39e4dx', 'runs': {'initial': {'verified': 248, 'rejected': 1, 'new': 0}, 'today': {'verified': 248, 'rejected': 1, 'new': 2}, 'total': 2}, 'wrs': {'initial': 85, 'today': 85, 'total': 0}, 'games': {'initial': 37, 'today': 40, 'total': 3}},
+"Walgrey" : {'name': 'Walgrey', 'id': '8ge6w47j', 'runs': {'initial': {'verified': 661, 'rejected': 2, 'new': 0}, 'today': {'verified': 663, 'rejected': 2, 'new': 0}, 'total': 2}, 'wrs': {'initial': 235, 'today': 236, 'total': 1}, 'games': {'initial': 66, 'today': 68, 'total': 2}},
+"hahhah42" : {'name': 'hahhah42', 'id': 'jmoqknn8', 'runs': {'initial': {'verified': 285, 'rejected': 1, 'new': 0}, 'today': {'verified': 285, 'rejected': 1, 'new': 0}, 'total': 0}, 'wrs': {'initial': 52, 'today': 52, 'total': 0}, 'games': {'initial': 27, 'today': 28, 'total': 1}},
+"Zambrini" : {'name': 'Zambrini', 'id': '1xyylnyx', 'runs': {'initial': {'verified': 1670, 'rejected': 8, 'new': 20}, 'today': {'verified': 1718, 'rejected': 8, 'new': 23}, 'total': 51}, 'wrs': {'initial': 1089, 'today': 1134, 'total': 45}, 'games': {'initial': 164, 'today': 186, 'total': 22}},
+"Kkspeed" : {'name': 'Kkspeed', 'id': 'xz7m6knj', 'runs': {'initial': {'verified': 157, 'rejected': 17, 'new': 32}, 'today': {'verified': 166, 'rejected': 32, 'new': 113}, 'total': 90}, 'wrs': {'initial': 43, 'today': 51, 'total': 8}, 'games': {'initial': 12, 'today': 21, 'total': 9}},
+"Ivory" : {'name': 'Ivory', 'id': 'v8lqkv7x', 'runs': {'initial': {'verified': 38, 'rejected': 31, 'new': 1}, 'today': {'verified': 38, 'rejected': 31, 'new': 1}, 'total': 0}, 'wrs': {'initial': 0, 'today': 0, 'total': 0}, 'games': {'initial': 15, 'today': 21, 'total': 6}},
+"Bob-chicken" : {'name': 'Bob-chicken', 'id': 'x7q6qy08', 'runs': {'initial': {'verified': 380, 'rejected': 28, 'new': 1}, 'today': {'verified': 380, 'rejected': 28, 'new': 1}, 'total': 0}, 'wrs': {'initial': 77, 'today': 77, 'total': 0}, 'games': {'initial': 62, 'today': 83, 'total': 21}},
+"wrap" : {'name': 'wrap', 'id': 'xz79gdej', 'runs': {'initial': {'verified': 81, 'rejected': 10, 'new': 0}, 'today': {'verified': 115, 'rejected': 10, 'new': 58}, 'total': 92}, 'wrs': {'initial': 44, 'today': 74, 'total': 30}, 'games': {'initial': 16, 'today': 25, 'total': 9}},
+"Act7" : {'name': 'Act7', 'id': 'j51p0268', 'runs': {'initial': {'verified': 856, 'rejected': 100, 'new': 8}, 'today': {'verified': 864, 'rejected': 100, 'new': 18}, 'total': 18}, 'wrs': {'initial': 316, 'today': 318, 'total': 2}, 'games': {'initial': 148, 'today': 203, 'total': 55}},
+"Fioresa" : {'name': 'Fioresa', 'id': '1xy3wpwj', 'runs': {'initial': {'verified': 5269, 'rejected': 16, 'new': 58}, 'today': {'verified': 5312, 'rejected': 16, 'new': 60}, 'total': 45}, 'wrs': {'initial': 3460, 'today': 3501, 'total': 41}, 'games': {'initial': 90, 'today': 101, 'total': 11}},
+"TRlittleToaster" : {'name': 'TRlittleToaster', 'id': '8qzo95o8', 'runs': {'initial': {'verified': 1971, 'rejected': 1, 'new': 10}, 'today': {'verified': 1976, 'rejected': 1, 'new': 28}, 'total': 23}, 'wrs': {'initial': 283, 'today': 288, 'total': 5}, 'games': {'initial': 1338, 'today': 1365, 'total': 27}},
+"daff" : {'name': 'daff', 'id': '8grm677x', 'runs': {'initial': {'verified': 3508, 'rejected': 45, 'new': 57}, 'today': {'verified': 3580, 'rejected': 45, 'new': 0}, 'total': 15}, 'wrs': {'initial': 2305, 'today': 2377, 'total': 72}, 'games': {'initial': 48, 'today': 52, 'total': 4}},
+"Slothboy78YT" : {'name': 'Slothboy78YT', 'id': '8grk0zyx', 'runs': {'initial': {'verified': 152, 'rejected': 35, 'new': 62}, 'today': {'verified': 164, 'rejected': 36, 'new': 52}, 'total': 2}, 'wrs': {'initial': 46, 'today': 53, 'total': 7}, 'games': {'initial': 18, 'today': 35, 'total': 17}},
+"jackzfiml" : {'name': 'jackzfiml', 'id': '8ge265yj', 'runs': {'initial': {'verified': 463, 'rejected': 3, 'new': 0}, 'today': {'verified': 464, 'rejected': 3, 'new': 0}, 'total': 1}, 'wrs': {'initial': 124, 'today': 125, 'total': 1}, 'games': {'initial': 63, 'today': 65, 'total': 2}},
+]
+{'verified': 634, 'rejected': 14, 'new': 246}
+{'verified': 998, 'rejected': 36, 'new': 3}
+{'verified': 1734, 'rejected': 21, 'new': 30}
+{'verified': 1209, 'rejected': 167, 'new': 178}
+{'verified': 8242, 'rejected': 454, 'new': 883}
+{'verified': 1216, 'rejected': 1, 'new': 0}
+{'verified': 2043, 'rejected': 0, 'new': 3}
+{'verified': 1017, 'rejected': 18, 'new': 0}
+{'verified': 2403, 'rejected': 59, 'new': 33}
+{'verified': 1546, 'rejected': 2, 'new': 0}
+{'verified': 1379, 'rejected': 52, 'new': 14}
+{'verified': 1679, 'rejected': 0, 'new': 47}
+{'verified': 2054, 'rejected': 0, 'new': 37}
+{'verified': 460, 'rejected': 4, 'new': 1}
+{'verified': 925, 'rejected': 44, 'new': 103}
+{'verified': 1453, 'rejected': 24, 'new': 0}
+{'verified': 1283, 'rejected': 86, 'new': 31}
+{'verified': 248, 'rejected': 1, 'new': 2}
+{'verified': 663, 'rejected': 2, 'new': 0}
+{'verified': 285, 'rejected': 1, 'new': 0}
+{'verified': 1718, 'rejected': 8, 'new': 23}
+{'verified': 166, 'rejected': 32, 'new': 113}
+{'verified': 38, 'rejected': 31, 'new': 1}
+{'verified': 380, 'rejected': 28, 'new': 1}
+{'verified': 115, 'rejected': 10, 'new': 58}
+{'verified': 864, 'rejected': 100, 'new': 18}
+{'verified': 5312, 'rejected': 16, 'new': 60}
+{'verified': 1976, 'rejected': 1, 'new': 28}
+{'verified': 3580, 'rejected': 45, 'new': 0}
+{'verified': 164, 'rejected': 36, 'new': 52}
+{'verified': 464, 'rejected': 3, 'new': 0}
+runs
+2021-12-20
+`1.stathx                  325`
+`2.Otterstone_Gamer        270`
+`3.JeelSpeed               112`
+`4.killerkun...            107`
+`5.Astrolite               96`
+`6.wrap                    92`
+`7.Kkspeed                 90`
+`8.ComicBlue               77`
+`9.VyPr                    70`
+`10.Zambrini               51`
+`11.Fioresa                45`
+`12.Elims                  31`
+`13.Toxcien                30`
+`14.felipenascimento83     24`
+`15.TRlittleToaster        23`
+`16.JDMI                   20`
+`17.Act7                   18`
+`18.daff                   15`
+`19.reni                   6`
+`19.AslanTZ                6`
+`21.4d9r                   3`
+`22.zir0nic                2`
+`22.Kkntucara              2`
+`22.Merl_                  2`
+`22.Walgrey                2`
+`22.Slothboy78YT           2`
+`27.jackzfiml              1`
+`28.felipereis11011        0`
+`28.hahhah42               0`
+`28.Ivory                  0`
+`28.Bob-chicken            0`
+stathx
+Otterstone_Gamer
+JeelSpeed
+killerkun...
+Astrolite
+wrap
+Kkspeed
+ComicBlue
+VyPr
+Zambrini
+Fioresa
+Elims
+Toxcien
+felipenascimento83
+TRlittleToaster
+JDMI
+Act7
+daff
+reni
+AslanTZ
+4d9r
+zir0nic
+Kkntucara
+Merl_
+Walgrey
+Slothboy78YT
+jackzfiml
+felipereis11011
+hahhah42
+Ivory
+Bob-chicken
+325
+270
+112
+107
+96
+92
+90
+77
+70
+51
+45
+31
+30
+24
+23
+20
+18
+15
+6
+6
+3
+2
+2
+2
+2
+2
+1
+0
+0
+0
+0
+wrs
+2021-12-20
+`1.stathx                  289`
+`2.killerkun...            75`
+`3.daff                    72`
+`4.Zambrini                45`
+`5.Fioresa                 41`
+`6.wrap                    30`
+`6.Toxcien                 30`
+`8.ComicBlue               28`
+`9.felipenascimento83      23`
+`10.JDMI                   20`
+`11.VyPr                   14`
+`12.Kkspeed                8`
+`13.Slothboy78YT           7`
+`14.AslanTZ                6`
+`15.TRlittleToaster        5`
+`15.reni                   5`
+`17.Act7                   2`
+`18.JeelSpeed              1`
+`18.Elims                  1`
+`18.Walgrey                1`
+`18.jackzfiml              1`
+`22.Otterstone_Gamer       0`
+`22.Astrolite              0`
+`22.4d9r                   0`
+`22.zir0nic                0`
+`22.Kkntucara              0`
+`22.Merl_                  0`
+`22.hahhah42               0`
+`22.Ivory                  0`
+`22.Bob-chicken            0`
+`31.felipereis11011        -3`
+stathx
+killerkun...
+daff
+Zambrini
+Fioresa
+wrap
+Toxcien
+ComicBlue
+felipenascimento83
+JDMI
+VyPr
+Kkspeed
+Slothboy78YT
+AslanTZ
+TRlittleToaster
+reni
+Act7
+JeelSpeed
+Elims
+Walgrey
+jackzfiml
+Otterstone_Gamer
+Astrolite
+4d9r
+zir0nic
+Kkntucara
+Merl_
+hahhah42
+Ivory
+Bob-chicken
+felipereis11011
+289
+75
+72
+45
+41
+30
+30
+28
+23
+20
+14
+8
+7
+6
+5
+5
+2
+1
+1
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+-3
+games
+2021-12-20
+`1.Act7                    55`
+`2.Otterstone_Gamer        52`
+`3.Elims                   47`
+`4.Astrolite               37`
+`5.zir0nic                 28`
+`6.TRlittleToaster         27`
+`7.Zambrini                22`
+`8.Bob-chicken             21`
+`9.Kkntucara               20`
+`10.JeelSpeed              18`
+`11.Slothboy78YT           17`
+`12.killerkun...           16`
+`13.AslanTZ                14`
+`14.Fioresa                11`
+`15.ComicBlue              10`
+`15.VyPr                   10`
+`17.stathx                 9`
+`17.wrap                   9`
+`17.Kkspeed                9`
+`17.4d9r                   9`
+`21.Ivory                  6`
+`22.felipenascimento83     5`
+`22.reni                   5`
+`24.daff                   4`
+`25.Toxcien                3`
+`25.Merl_                  3`
+`27.JDMI                   2`
+`27.Walgrey                2`
+`27.jackzfiml              2`
+`30.hahhah42               1`
+`30.felipereis11011        1`
+Act7
+Otterstone_Gamer
+Elims
+Astrolite
+zir0nic
+TRlittleToaster
+Zambrini
+Bob-chicken
+Kkntucara
+JeelSpeed
+Slothboy78YT
+killerkun...
+AslanTZ
+Fioresa
+ComicBlue
+VyPr
+stathx
+wrap
+Kkspeed
+4d9r
+Ivory
+felipenascimento83
+reni
+daff
+Toxcien
+Merl_
+JDMI
+Walgrey
+jackzfiml
+hahhah42
+felipereis11011
+55
+52
+47
+37
+28
+27
+22
+21
+20
+18
+17
+16
+14
+11
+10
+10
+9
+9
+9
+9
+6
+5
+5
+4
+3
+3
+2
+2
+2
+1
+1
+>>> 
