@@ -53,7 +53,7 @@ with open("data.csv", "w", newline="") as csvOutput:
         file = csv.reader(csvRunners)
         for i in file:
             runner = {}
-            runner['name'],runner['id'],_,_ = i
+            runner['name'],runner['id']= i
             idd = runner['id']
             strike = 0
             while True:
@@ -144,6 +144,9 @@ with open("data.csv", "w", newline="") as csvOutput:
             runner['runsIL'] = runsIL
             runner['runsFG'] = runsFG
             runner['podiums'] = podiums
+            runner['obs'] = obs
+            runner['PBs'] = PBs
+            runner['levels'] = levels
             games1Wr = len(games1Wr)
             runner['wrsGames'] = games1Wr
             catsIL = len(catsIL)
@@ -175,7 +178,7 @@ for n, i in enumerate(result):
         boards.append(f"{i['flag']}`{i['name']} {' ' * (23-len(i['name']))} {i['ratio']}`")
     if n%50 == 49:
         boards.append("")
-for lbType in ('wrs','wrsFG','wrsIL','runs','games','categories','runsIL','runsFG','podiums','wrsGames'):
+for lbType in ('wrs','wrsFG','wrsIL','runs','games','categories','runsIL','runsFG','podiums','wrsGames','obs','PBs','levels'):
     result.sort(key=lambda x: x[lbType], reverse=True)
     boards.append(lbType)
     boards.append(str(datetime.datetime.now().date()))
@@ -197,7 +200,7 @@ print("\n".join(boards))
 with open("backup.txt", 'w') as backup:
     backup.write("\n".join(boards))
 result.sort(key=lambda x: x['runs'], reverse=True)
-with open("runners.csv", 'w') as csvRunners:
-    writer = csv.writer(csvRunners,delimiter = ';')
+with open("runners.csv", 'w',newline="") as csvRunners:
+    writer = csv.writer(csvRunners)
     for i in result:
         writer.writerow([i['name'],i['id']])
