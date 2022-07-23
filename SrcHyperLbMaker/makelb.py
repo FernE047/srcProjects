@@ -46,9 +46,8 @@ with open("data.csv", "w", newline="") as csvOutput:
             'Percentage Of Games with at least 1 wr',
             'Personal Bests','Obsolete Runs','Second Places','Third Places',
             'Fourth Places','ratio Wrs/pbs','ratio Wrs/runs','Biggest Run Description',
-            'Biggest Run Description URL','Run Description Size on Average','Runs Using Splits',
-            'Sum Of Runs Times in seconds (Very innacurate)','Sum Of Runs Times Edited',
-            'platforms played','Runs Emulated'])
+            'Run Description Size on Average','Sum Of Runs Times in seconds (Very innacurate)',
+            'Sum Of Runs Times Edited','platforms played','Runs Emulated'])
     with open("runners.csv", 'r') as csvRunners:
         file = csv.reader(csvRunners)
         for i in file:
@@ -77,10 +76,13 @@ with open("data.csv", "w", newline="") as csvOutput:
                 runner['flag'] = ":flag_" + data['user']['country'] + ":"
             else:
                 runner['flag'] = ":united_nations:"
-            runner['runs'] = runs = len(data['runs'])
-            runner['games'] = games = len(data['games'])
-            runner['categories'] = categories = len(data['categories'])
-            if 'level' in data:
+            runs = len(data['runs'])
+            runner['runs'] = runs
+            games = len(data['games'])
+            runner['games'] = games
+            categories = len(data['categories'])
+            runner['categories'] = categories
+            if 'levels' in data:
                 levels = len(data['levels'])
             else:
                 levels = 0

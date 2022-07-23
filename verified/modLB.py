@@ -47,8 +47,8 @@ def getRuns(mod,minimo):
                 total += 1
     return total
 
-moderators = [['kj9p77x4', 'dha', 28064,":flag_it:",guestRuns('kj9p77x4','n/a')],
-              ['8l0rl9v8', 'Reni', 20941,":flag_gb:",guestRuns('8l0rl9v8','n/a')]]
+moderators = [['kj9p77x4', 'dha', 29502,":flag_it:",guestRuns('kj9p77x4','n/a')],
+              ['8l0rl9v8', 'Reni', 21361,":flag_gb:",guestRuns('8l0rl9v8','n/a')]]
 with open('moderators.csv','r') as file:
     reader = csv.reader(file,delimiter = ',')
     for moderator in reader:
